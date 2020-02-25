@@ -15,4 +15,4 @@ import cachetools
 import inotify_simple #inotify-simple
 import enum
 import diskcache
-import Tkinter
+#import Tkinter (layer tcltk@mfext is optional)
