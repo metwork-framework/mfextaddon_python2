@@ -20,6 +20,7 @@ MarkupSafe==1.1.1
 -e git+https://github.com/metwork-framework/mfutil.git@bc2fc42f9a5e903bc054bd13ccbd23a6bfb31793#egg=mfutil
 netifaces==0.10.9
 -e git+https://github.com/metwork-framework/opinionated_configparser.git@2a0349ad95d03376de97353fa59f9aba5ca3c4ad#egg=opinionated_configparser
+pathlib==1.0.1
 psutil==5.7.0
 PyYAML==5.3
 redis==3.4.1
