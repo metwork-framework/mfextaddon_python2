@@ -46,6 +46,7 @@
 | [nose](http://readthedocs.org/docs/nose/) | 1.3.7 | python2_devtools |
 | [opinionated-configparser](https://github.com/metwork-framework/opinionated_configparser) | custom | python2 |
 | [packaging](https://github.com/pypa/packaging) | 19.0 | python2_core |
+| [pathlib](https://pathlib.readthedocs.org/) | 1.0.1 | python2 |
 | [pathlib2](https://github.com/mcmtroffaes/pathlib2) | 2.3.5 | python2_devtools |
 | [pip](https://pip.pypa.io/) | 9.0.3 | python2_core |
 | [pluggy](https://github.com/pytest-dev/pluggy) | 0.13.1 | python2_devtools |
@@ -84,4 +85,4 @@
 | [wrapt](https://github.com/GrahamDumpleton/wrapt) | 1.12.0 | python2_devtools |
 | [zipp](https://github.com/jaraco/zipp) | 1.2.0 | python2_devtools |
 
-*(83 components)*
+*(84 components)*
