@@ -22,4 +22,3 @@ diskcache
 terminaltables
 PyYAML
 unidecode
-pathlib
