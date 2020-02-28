@@ -28,7 +28,7 @@
 | [funcsigs](http://funcsigs.readthedocs.org) | 1.0.2 | python2_devtools |
 | [functools32](https://github.com/MiCHiLU/python-functools32) | 3.2.3.post2 | python2_devtools |
 | [futures](https://github.com/agronholm/pythonfutures) | 3.3.0 | python2_devtools |
-| [gitignore-parser](https://github.com/mherrmann/gitignore_parser) | 0.0.5 | python2 |
+| [gitignore-parser](https://github.com/mherrmann/gitignore_parser) | 0.0.6 | python2 |
 | [idna](https://github.com/kjd/idna) | 2.9 | python2 |
 | [importlib-metadata](http://importlib-metadata.readthedocs.io/) | 1.5.0 | python2_devtools |
 | [inotify-simple](https://github.com/chrisjbillington/inotify_simple) | 1.3.3 | python2 |
