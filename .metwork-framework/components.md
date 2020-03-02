@@ -4,7 +4,7 @@
 | [astroid](https://github.com/PyCQA/astroid) | 1.6.6 | python2_devtools |
 | [atomicwrites](https://github.com/untitaker/python-atomicwrites) | 1.3.0 | python2_devtools |
 | [attrs](https://www.attrs.org/) | 19.3.0 | python2_devtools |
-| [backports.functools-lru-cache](https://github.com/jaraco/backports.functools_lru_cache) | 1.6.1 | python2 |
+| [backports.functools-lru-cache](https://github.com/jaraco/backports.functools_lru_cache) | 1.5 | python2 |
 | [bash](https://github.com/alexcouper/bash) | 0.6 | python2 |
 | [cachetools](https://github.com/tkem/cachetools) | 3.1.1 | python2 |
 | [certifi](https://certifi.io/) | 2019.3.9 | python2 |
@@ -12,15 +12,14 @@
 | [certifi](https://certifi.io/) | 2019.3.9 | python2_devtools |
 | [cffi](http://cffi.readthedocs.org) | 1.14.0 | python2 |
 | [chardet](https://github.com/chardet/chardet) | 3.0.4 | python2 |
-| [ConfigArgParse](https://github.com/bw2/ConfigArgParse) | 1.0 | python2 |
-| [configparser](https://github.com/jaraco/configparser/) | 4.0.2 | python2 |
+| [ConfigArgParse](https://github.com/bw2/ConfigArgParse) | 0.14.0 | python2 |
+| [configparser](https://github.com/jaraco/configparser/) | 3.7.4 | python2 |
 | [contextlib2](http://contextlib2.readthedocs.org) | 0.6.0.post1 | python2_devtools |
 | [coverage](https://github.com/nedbat/coveragepy) | 5.0.3 | python2_devtools |
 | [deploycron](https://github.com/monklof/deploycron) | custom | python2 |
-| [diskcache](http://www.grantjenks.com/docs/diskcache/) | 4.1.0 | python2 |
+| [diskcache](http://www.grantjenks.com/docs/diskcache/) | 3.1.1 | python2 |
 | [entrypoints](https://github.com/takluyver/entrypoints) | 0.3 | python2_devtools |
 | [enum](https://pypi.org/project/enum/) | 0.4.7 | python2 |
-| [enum34](https://bitbucket.org/stoneleaf/enum34) | 1.1.9 | python2 |
 | [envtpl](https://github.com/andreasjansson/envtpl) | custom | python2 |
 | [filelock](https://github.com/benediktschmitt/py-filelock) | 3.0.12 | python2 |
 | [flake8-docstrings](https://gitlab.com/pycqa/flake8-docstrings) | 1.5.0 | python2_devtools |
@@ -29,11 +28,11 @@
 | [functools32](https://github.com/MiCHiLU/python-functools32) | 3.2.3.post2 | python2_devtools |
 | [futures](https://github.com/agronholm/pythonfutures) | 3.3.0 | python2_devtools |
 | [gitignore-parser](https://github.com/mherrmann/gitignore_parser) | 0.0.6 | python2 |
-| [idna](https://github.com/kjd/idna) | 2.9 | python2 |
+| [idna](https://github.com/kjd/idna) | 2.8 | python2 |
 | [importlib-metadata](http://importlib-metadata.readthedocs.io/) | 1.5.0 | python2_devtools |
-| [inotify-simple](https://github.com/chrisjbillington/inotify_simple) | 1.3.3 | python2 |
+| [inotify-simple](https://github.com/chrisjbillington/inotify_simple) | 1.1.8 | python2 |
 | [isort](https://github.com/timothycrosley/isort) | 4.3.21 | python2_devtools |
-| [Jinja2](https://palletsprojects.com/p/jinja/) | 2.11.1 | python2 |
+| [Jinja2](http://jinja.pocoo.org/) | 2.10.1 | python2 |
 | [lazy-object-proxy](https://github.com/ionelmc/python-lazy-object-proxy) | 1.4.3 | python2_devtools |
 | [MarkupSafe](https://palletsprojects.com/p/markupsafe/) | 1.1.1 | python2 |
 | [mccabe](https://github.com/pycqa/mccabe) | 0.6.1 | python2_devtools |
@@ -50,7 +49,7 @@
 | [pathlib2](https://github.com/mcmtroffaes/pathlib2) | 2.3.5 | python2_devtools |
 | [pip](https://pip.pypa.io/) | 9.0.3 | python2_core |
 | [pluggy](https://github.com/pytest-dev/pluggy) | 0.13.1 | python2_devtools |
-| [psutil](https://github.com/giampaolo/psutil) | 5.7.0 | python2 |
+| [psutil](https://github.com/giampaolo/psutil) | 5.6.3 | python2 |
 | [py](http://py.readthedocs.io/) | 1.8.1 | python2_devtools |
 | [pycodestyle](https://pycodestyle.readthedocs.io/) | 2.5.0 | python2_devtools |
 | [pycparser](https://github.com/eliben/pycparser) | 2.19 | python2 |
@@ -60,10 +59,10 @@
 | [pyparsing](http://pyparsing.wikispaces.com/) | 2.4.0 | python2_core |
 | [pytest](https://docs.pytest.org/en/latest/) | 4.6.9 | python2_devtools |
 | [Python](http://python.org/) | 2.7.16 | python2_core |
-| [PyYAML](https://github.com/yaml/pyyaml) | 5.3 | python2 |
-| [redis](https://github.com/andymccurdy/redis-py) | 3.4.1 | python2 |
+| [PyYAML](https://github.com/yaml/pyyaml) | 5.1.2 | python2 |
+| [redis](https://github.com/andymccurdy/redis-py) | 3.2.1 | python2 |
 | [requests-unixsocket](https://github.com/msabramo/requests-unixsocket) | 0.2.0 | python2 |
-| [requests](https://requests.readthedocs.io) | 2.23.0 | python2 |
+| [requests](http://python-requests.org) | 2.22.0 | python2 |
 | [scandir](https://github.com/benhoyt/scandir) | 1.10.0 | python2_devtools |
 | [setuptools-scm](https://github.com/pypa/setuptools_scm/) | 3.5.0 | python2 |
 | [setuptools](https://pypi.python.org/pypi/setuptools) | 41.0.1 | python2_core |
@@ -72,12 +71,12 @@
 | [six](https://pypi.python.org/pypi/six/) | 1.12.0 | python2_core |
 | [snowballstemmer](https://github.com/snowballstem/snowball) | 2.0.0 | python2_devtools |
 | [statsd](https://github.com/jsocol/pystatsd) | custom | python2 |
-| [structlog](https://www.structlog.org/) | 20.1.0 | python2 |
+| [structlog](https://www.structlog.org/) | 19.1.0 | python2 |
 | [terminaltables](https://github.com/Robpol86/terminaltables) | 3.1.0 | python2 |
 | [testfixtures](https://github.com/Simplistix/testfixtures) | 6.14.0 | python2_devtools |
 | [typing](https://docs.python.org/3/library/typing.html) | 3.7.4.1 | python2_devtools |
 | [Unidecode](https://pypi.org/project/Unidecode) | 1.1.1 | python2 |
-| [urllib3](https://urllib3.readthedocs.io/) | 1.25.8 | python2 |
+| [urllib3](https://urllib3.readthedocs.io/) | 1.25.3 | python2 |
 | [virtualenv](https://virtualenv.pypa.io/) | 16.6.0 | python2_core |
 | [wcwidth](https://github.com/jquast/wcwidth) | 0.1.8 | python2_devtools |
 | [Werkzeug](https://palletsprojects.com/p/werkzeug/) | 1.0.0 | python2_devtools |
@@ -85,4 +84,4 @@
 | [wrapt](https://github.com/GrahamDumpleton/wrapt) | 1.12.0 | python2_devtools |
 | [zipp](https://github.com/jaraco/zipp) | 1.2.0 | python2_devtools |
 
-*(84 components)*
+*(83 components)*
