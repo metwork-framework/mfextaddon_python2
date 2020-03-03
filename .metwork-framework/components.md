@@ -6,6 +6,7 @@
 | [attrs](https://www.attrs.org/) | 19.3.0 | python2_devtools |
 | [backports.functools-lru-cache](https://github.com/jaraco/backports.functools_lru_cache) | 1.5 | python2 |
 | [bash](https://github.com/alexcouper/bash) | 0.6 | python2 |
+| [bjoern](https://github.com/thefab/bjoern/tree/metwork) | metwork-20190515 | python2 |
 | [cachetools](https://github.com/tkem/cachetools) | 3.1.1 | python2 |
 | [certifi](https://certifi.io/) | 2019.3.9 | python2 |
 | [certifi](https://certifi.io) | 2019.3.9 | python2_core |
@@ -85,4 +86,4 @@
 | [wrapt](https://github.com/GrahamDumpleton/wrapt) | 1.11.2 | python2_devtools |
 | [zipp](https://github.com/jaraco/zipp) | 0.6.0 | python2_devtools |
 
-*(84 components)*
+*(85 components)*
