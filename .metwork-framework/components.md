@@ -51,7 +51,7 @@
 | [pathlib2](https://github.com/mcmtroffaes/pathlib2) | 2.3.5 | python2_devtools |
 | [pip](https://pip.pypa.io/) | 9.0.3 | python2_core |
 | [pluggy](https://github.com/pytest-dev/pluggy) | 0.13.1 | python2_devtools |
-| [psutil](https://github.com/giampaolo/psutil) | 5.6.3 | python2 |
+| [psutil](https://github.com/giampaolo/psutil) | 5.6.6 | python2 |
 | [py](http://py.readthedocs.io/) | 1.8.1 | python2_devtools |
 | [pycodestyle](https://pycodestyle.readthedocs.io/) | 2.5.0 | python2_devtools |
 | [pycparser](https://github.com/eliben/pycparser) | 2.19 | python2 |
