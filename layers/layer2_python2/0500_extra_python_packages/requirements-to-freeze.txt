@@ -22,3 +22,4 @@ diskcache
 terminaltables
 PyYAML
 unidecode
+-e git+https://github.com/metwork-framework/xattrfile.git#egg=xattrfile

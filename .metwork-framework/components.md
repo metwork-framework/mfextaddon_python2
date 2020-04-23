@@ -41,7 +41,7 @@
 | [mflog](https://github.com/metwork-framework/mflog) | custom | python2 |
 | [mfutil](https://pypi.org/project/mfutil) | custom | python2 |
 | [mock](http://mock.readthedocs.org/en/latest/) | 3.0.5 | python2_devtools |
-| [mockredispy](http://www.github.com/locationlabs/mockredis) | 2.9.3 | python2_devtools |
+| [mockredispy](http://www.github.com/locationlabs/mockredis) | 2.9.3 | python2 |
 | [more-itertools](https://github.com/erikrose/more-itertools) | 5.0.0 | python2_devtools |
 | [netifaces](https://github.com/al45tair/netifaces) | 0.10.9 | python2 |
 | [nose](http://readthedocs.org/docs/nose/) | 1.3.7 | python2_devtools |
@@ -84,6 +84,7 @@
 | [Werkzeug](https://palletsprojects.com/p/werkzeug/) | 0.16.0 | python2_devtools |
 | [wheel](https://github.com/pypa/wheel) | 0.33.4 | python2_core |
 | [wrapt](https://github.com/GrahamDumpleton/wrapt) | 1.11.2 | python2_devtools |
+| [xattrfile](https://pypi.org/project/xattrfile) | custom | python2 |
 | [zipp](https://github.com/jaraco/zipp) | 0.6.0 | python2_devtools |
 
-*(85 components)*
+*(86 components)*
