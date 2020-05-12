@@ -1,0 +1,4 @@
+certifi==2019.3.9
+cffi==1.14.0
+pycparser==2.19
+setuptools-scm==3.5.0

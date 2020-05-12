@@ -1,0 +1,11 @@
+coverage
+mock
+flake8
+pylint
+testfixtures
+isort
+pydocstyle
+flake8-docstrings
+pytest
+werkzeug
+nose
