@@ -6,8 +6,6 @@
 /layers/layer*/*_extra_python_packages/src
 /layers/layer*/*_extra_python_packages/tempolayer*
 /layers/layer*/cache
-/layers/layer1_python2_core/0000_adm/*requirements
-/layers/layer1_python2_core/0000_adm/unsafe_pip
 
 doc/_build
 doc/layer_*.md
