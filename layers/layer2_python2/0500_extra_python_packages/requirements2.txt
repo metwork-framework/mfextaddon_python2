@@ -15,11 +15,11 @@ idna==2.8
 inotify-simple==1.1.8
 Jinja2==2.10.1
 MarkupSafe==1.1.1
--e git+https://github.com/metwork-framework/mflog.git@27122976305e7c494a332add681819025a32ba2a#egg=mflog
--e git+https://github.com/metwork-framework/mfutil.git@76ee29016b0af7333fd2dad027374fbee8f275d8#egg=mfutil
+-e git+https://github.com/metwork-framework/mflog.git@afac597e0e565c4a65cba2199b1ee054850d390c#egg=mflog
+-e git+https://github.com/metwork-framework/mfutil.git@0fe19ed2d039eab6ce3654ee25e242d8a8d773a8#egg=mfutil
 mockredispy==2.9.3
 netifaces==0.10.9
--e git+https://github.com/metwork-framework/opinionated_configparser.git@2a0349ad95d03376de97353fa59f9aba5ca3c4ad#egg=opinionated_configparser
+-e git+https://github.com/metwork-framework/opinionated_configparser.git@70bc04669eab0c6e5c1f2a2d1b5ffb821265366b#egg=opinionated_configparser
 pathlib==1.0.1
 psutil==5.6.6
 PyYAML==5.1.2
@@ -32,4 +32,4 @@ structlog==19.1.0
 terminaltables==3.1.0
 Unidecode==1.1.1
 urllib3==1.25.3
--e git+https://github.com/metwork-framework/xattrfile.git@babff1ffa4054f905347c50f7e532f96aa40d32c#egg=xattrfile
+-e git+https://github.com/metwork-framework/xattrfile.git@db24341265249b3b0bf4f89604e05cea3743374b#egg=xattrfile
