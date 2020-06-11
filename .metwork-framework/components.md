@@ -1,5 +1,6 @@
 | Name | Version | Layer |
 | --- | --- | --- |
+| [acquisition](https://pypi.org/project/acquisition) | custom | python2 |
 | [appdirs](http://github.com/ActiveState/appdirs) | 1.4.3 | python2_core |
 | [astroid](https://github.com/PyCQA/astroid) | 1.6.6 | python2_devtools |
 | [atomicwrites](https://github.com/untitaker/python-atomicwrites) | 1.3.0 | python2_devtools |
@@ -87,4 +88,4 @@
 | [xattrfile](https://pypi.org/project/xattrfile) | custom | python2 |
 | [zipp](https://github.com/jaraco/zipp) | 0.6.0 | python2_devtools |
 
-*(86 components)*
+*(87 components)*
