@@ -4,7 +4,7 @@
 | [appdirs](http://github.com/ActiveState/appdirs) | 1.4.3 | python2_core |
 | [astroid](https://github.com/PyCQA/astroid) | 1.6.6 | python2_devtools |
 | [atomicwrites](https://github.com/untitaker/python-atomicwrites) | 1.3.0 | python2_devtools |
-| [attrs](https://www.attrs.org/) | 19.3.0 | python2_devtools |
+| [attrs](https://www.attrs.org/) | 19.3.0 | python2 |
 | [backports.functools-lru-cache](https://github.com/jaraco/backports.functools_lru_cache) | 1.5 | python2 |
 | [bash](https://github.com/alexcouper/bash) | 0.6 | python2 |
 | [bjoern](https://github.com/thefab/bjoern/tree/metwork) | metwork-20190515 | python2 |

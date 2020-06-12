@@ -24,3 +24,5 @@ PyYAML
 unidecode
 -e git+https://github.com/metwork-framework/xattrfile.git#egg=xattrfile
 -e git+https://github.com/metwork-framework/acquisition.git#egg=acquisition
+#attrs is required by both python2_devtools and python2_scientific
+attrs
