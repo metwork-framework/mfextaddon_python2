@@ -1,3 +1,5 @@
+-e git+https://github.com/metwork-framework/acquisition.git@edcce9cc77533dcfee1bb1cf12fa083639d778d8#egg=acquisition
+attrs==19.3.0
 backports.functools-lru-cache==1.5
 bash==0.6
 cachetools==3.1.1
@@ -15,11 +17,11 @@ idna==2.8
 inotify-simple==1.1.8
 Jinja2==2.10.1
 MarkupSafe==1.1.1
--e git+https://github.com/metwork-framework/mflog.git@afac597e0e565c4a65cba2199b1ee054850d390c#egg=mflog
--e git+https://github.com/metwork-framework/mfutil.git@0fe19ed2d039eab6ce3654ee25e242d8a8d773a8#egg=mfutil
+-e git+https://github.com/metwork-framework/mflog.git@63208e98d2a2bfe659dbfcd9a262ac9bfd1ca5a4#egg=mflog
+-e git+https://github.com/metwork-framework/mfutil.git@25efa5d0e936429d1b0a0e7b69f0053c4960277f#egg=mfutil
 mockredispy==2.9.3
 netifaces==0.10.9
--e git+https://github.com/metwork-framework/opinionated_configparser.git@70bc04669eab0c6e5c1f2a2d1b5ffb821265366b#egg=opinionated_configparser
+-e git+https://github.com/metwork-framework/opinionated_configparser.git@d8239a8906ec0f6296ec6a813ac244ec03033186#egg=opinionated_configparser
 pathlib==1.0.1
 psutil==5.6.6
 PyYAML==5.1.2
