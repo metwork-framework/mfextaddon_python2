@@ -84,6 +84,8 @@ integration_tests_common: &integration_tests_common
     - cat liste_dep | sort -u > liste_dep2
     - yum -y install `cat liste_dep2`
 
+    - yum -y install metwork-mfext-layer-tcltk
+
     - rm /etc/yum.repos.d/metwork.repo
     - yum clean all
     - yum -y localinstall metwork-mfext*.rpm
@@ -278,6 +280,18 @@ pipeline:
       event: tag
       ref: refs/tags/v*
 
+
+
+  trigger_mfxxx_python2_tests:
+    image: metwork/drone-downstream-specific-image:latest
+    repositories:
+      - metwork-framework/mfserv_python2_tests@${DRONE_BRANCH}
+      - metwork-framework/mfdata_python2_tests@${DRONE_BRANCH}
+    secrets: [ downstream_token, downstream_server ]
+    when:
+      status: [ success ]
+      event: push
+      branch: [ master, integration, experimental*, release_* ]
 
 
 
