@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if test "${1:-}" = "--help"; then
-    echo "usage: python3 [PYTHON_ARGS]"
+    echo "usage: python3_wrapper [PYTHON_ARGS]"
     echo "  => launch a python3 command inside a python3 env (even if we are currently in a python2 env)"
     exit 0
 fi
