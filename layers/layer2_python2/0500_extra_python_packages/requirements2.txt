@@ -17,7 +17,7 @@ idna==2.8
 inotify-simple==1.1.8
 Jinja2==2.10.1
 MarkupSafe==1.1.1
--e git+https://github.com/metwork-framework/mflog.git@63208e98d2a2bfe659dbfcd9a262ac9bfd1ca5a4#egg=mflog
+-e git+https://github.com/metwork-framework/mflog.git@c5a96d74ea5c8d1a81e856b3f4cd282bc44ef20e#egg=mflog
 -e git+https://github.com/metwork-framework/mfutil.git@25efa5d0e936429d1b0a0e7b69f0053c4960277f#egg=mfutil
 mockredispy==2.9.3
 netifaces==0.10.9
