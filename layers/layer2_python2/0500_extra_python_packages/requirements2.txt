@@ -1,27 +1,28 @@
--e git+https://github.com/metwork-framework/acquisition.git@91cd99badb73c8bbefe24a9eeef8b5f4c1ab43b8#egg=acquisition
+-e git+https://github.com/metwork-framework/acquisition.git@a80897f8f71658ea18d2516e1f9cbb042e503be5#egg=acquisition
 attrs==19.3.0
 backports.functools-lru-cache==1.5
 bash==0.6
+binaryornot==0.4.4
 cachetools==3.1.1
 certifi==2019.3.9
 chardet==3.0.4
 ConfigArgParse==0.14.0
 configparser==3.7.4
--e git+https://github.com/metwork-framework/deploycron.git@45aa24bad7805336d9d99b73d848c65ca63830f9#egg=deploycron
+-e git+https://github.com/metwork-framework/deploycron.git@c7d4e7b78fa8c9eb9f14ba49b5f90232af7d4709#egg=deploycron
 diskcache==3.1.1
 enum==0.4.7
--e git+https://github.com/metwork-framework/envtpl.git@b7a86cef2667be57b530204f1b10763eb81c7643#egg=envtpl
+-e git+https://github.com/metwork-framework/envtpl.git@a7838100809b367451ddca6477616082b01f4c1c#egg=envtpl
 filelock==3.0.12
 gitignore-parser==0.0.6
 idna==2.8
 inotify-simple==1.1.8
 Jinja2==2.10.1
 MarkupSafe==1.1.1
--e git+https://github.com/metwork-framework/mflog.git@c5a96d74ea5c8d1a81e856b3f4cd282bc44ef20e#egg=mflog
--e git+https://github.com/metwork-framework/mfutil.git@25efa5d0e936429d1b0a0e7b69f0053c4960277f#egg=mfutil
+mflog==0.0.4
+-e git+https://github.com/metwork-framework/mfutil.git@73c3dbbb65e91417add2e740299649f356e8aa95#egg=mfutil
 mockredispy==2.9.3
 netifaces==0.10.9
--e git+https://github.com/metwork-framework/opinionated_configparser.git@d8239a8906ec0f6296ec6a813ac244ec03033186#egg=opinionated_configparser
+-e git+https://github.com/metwork-framework/opinionated_configparser.git@0735fbda6d42bb61b10d3e3c3c2ba17463214974#egg=opinionated_configparser
 pathlib==1.0.1
 psutil==5.6.6
 PyYAML==5.1.2
@@ -34,4 +35,4 @@ structlog==19.1.0
 terminaltables==3.1.0
 Unidecode==1.1.1
 urllib3==1.25.3
--e git+https://github.com/metwork-framework/xattrfile.git@db24341265249b3b0bf4f89604e05cea3743374b#egg=xattrfile
+-e git+https://github.com/metwork-framework/xattrfile.git@9c0b2974deeafed59caa3659c685a89e686a0159#egg=xattrfile
