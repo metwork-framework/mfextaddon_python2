@@ -1,12 +1,13 @@
 | Name | Version | Layer |
 | --- | --- | --- |
-| [acquisition](https://pypi.org/project/acquisition) | custom | python2 |
+| [acquisition](https://github.com/metwork-framework/acquisition) | custom | python2 |
 | [appdirs](http://github.com/ActiveState/appdirs) | 1.4.3 | python2_core |
 | [astroid](https://github.com/PyCQA/astroid) | 1.6.6 | python2_devtools |
 | [atomicwrites](https://github.com/untitaker/python-atomicwrites) | 1.3.0 | python2_devtools |
 | [attrs](https://www.attrs.org/) | 19.3.0 | python2 |
 | [backports.functools-lru-cache](https://github.com/jaraco/backports.functools_lru_cache) | 1.5 | python2 |
 | [bash](https://github.com/alexcouper/bash) | 0.6 | python2 |
+| [binaryornot](https://github.com/audreyr/binaryornot) | 0.4.4 | python2 |
 | [bjoern](https://github.com/thefab/bjoern/tree/metwork) | metwork-20190515 | python2 |
 | [cachetools](https://github.com/tkem/cachetools) | 3.1.1 | python2 |
 | [certifi](https://certifi.io/) | 2019.3.9 | python2 |
@@ -18,12 +19,12 @@
 | [configparser](https://github.com/jaraco/configparser/) | 3.7.4 | python2 |
 | [contextlib2](http://contextlib2.readthedocs.org) | 0.6.0.post1 | python2_devtools |
 | [coverage](https://github.com/nedbat/coveragepy) | 5.0.2 | python2_devtools |
-| [deploycron](https://github.com/monklof/deploycron) | custom | python2 |
+| [deploycron](https://github.com/metwork-framework/deploycron) | custom | python2 |
 | [diskcache](http://www.grantjenks.com/docs/diskcache/) | 3.1.1 | python2 |
 | [entrypoints](https://github.com/takluyver/entrypoints) | 0.3 | python2_devtools |
 | [enum](https://pypi.org/project/enum/) | 0.4.7 | python2 |
 | [enum34](https://bitbucket.org/stoneleaf/enum34) | 1.1.6 | python2_devtools |
-| [envtpl](https://github.com/andreasjansson/envtpl) | custom | python2 |
+| [envtpl](https://github.com/metwork-framework/envtpl) | custom | python2 |
 | [filelock](https://github.com/benediktschmitt/py-filelock) | 3.0.12 | python2 |
 | [flake8-docstrings](https://gitlab.com/pycqa/flake8-docstrings) | 1.5.0 | python2_devtools |
 | [flake8](https://gitlab.com/pycqa/flake8) | 3.7.9 | python2_devtools |
@@ -39,8 +40,8 @@
 | [lazy-object-proxy](https://github.com/ionelmc/python-lazy-object-proxy) | 1.4.3 | python2_devtools |
 | [MarkupSafe](https://palletsprojects.com/p/markupsafe/) | 1.1.1 | python2 |
 | [mccabe](https://github.com/pycqa/mccabe) | 0.6.1 | python2_devtools |
-| [mflog](https://github.com/metwork-framework/mflog) | custom | python2 |
-| [mfutil](https://pypi.org/project/mfutil) | custom | python2 |
+| [mflog](https://github.com/metwork-framework/mflog) | 0.0.4 | python2 |
+| [mfutil](https://github.com/metwork-framework/mfutil) | custom | python2 |
 | [mock](http://mock.readthedocs.org/en/latest/) | 3.0.5 | python2_devtools |
 | [mockredispy](http://www.github.com/locationlabs/mockredis) | 2.9.3 | python2 |
 | [more-itertools](https://github.com/erikrose/more-itertools) | 5.0.0 | python2_devtools |
@@ -85,7 +86,7 @@
 | [Werkzeug](https://palletsprojects.com/p/werkzeug/) | 0.16.0 | python2_devtools |
 | [wheel](https://github.com/pypa/wheel) | 0.33.4 | python2_core |
 | [wrapt](https://github.com/GrahamDumpleton/wrapt) | 1.11.2 | python2_devtools |
-| [xattrfile](https://pypi.org/project/xattrfile) | custom | python2 |
+| [xattrfile](https://github.com/metwork-framework/xattrfile) | custom | python2 |
 | [zipp](https://github.com/jaraco/zipp) | 0.6.0 | python2_devtools |
 
-*(87 components)*
+*(88 components)*
