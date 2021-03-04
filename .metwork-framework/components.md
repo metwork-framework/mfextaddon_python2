@@ -61,7 +61,7 @@
 | [pyflakes](https://github.com/PyCQA/pyflakes) | 2.1.1 | python2_devtools |
 | [pylint](https://github.com/PyCQA/pylint) | 1.9.5 | python2_devtools |
 | [pyparsing](http://pyparsing.wikispaces.com/) | 2.4.0 | python2_core |
-| [pytest-runner](https://github.com/pytest-dev/pytest-runner/) | 5.2 | python2_devtools |
+| [pytest-runner](https://github.com/pytest-dev/pytest-runner/) | 5.2 | python2 |
 | [pytest](https://docs.pytest.org/en/latest/) | 4.6.9 | python2_devtools |
 | [Python](http://python.org/) | 2.7.16 | python2_core |
 | [PyYAML](https://github.com/yaml/pyyaml) | 5.1.2 | python2 |
