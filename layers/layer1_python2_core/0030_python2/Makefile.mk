@@ -2,10 +2,10 @@ include ../../../adm/root.mk
 include $(MFEXT_HOME)/share/package.mk
 
 export NAME=Python
-export VERSION=2.7.16
+export VERSION=2.7.18
 export EXTENSION=tar.xz
 export CHECKTYPE=MD5
-export CHECKSUM=30157d85a2c0479c09ea2cbe61f2aaf5
+export CHECKSUM=fd6cc8ec0a78c44036f825e739f36e5a
 DESCRIPTION=\
 Python is an interpreted, object-oriented, high-level programming language.
 WEBSITE=http://python.org/

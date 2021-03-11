@@ -63,7 +63,7 @@
 | [pyparsing](http://pyparsing.wikispaces.com/) | 2.4.0 | python2_core |
 | [pytest-runner](https://github.com/pytest-dev/pytest-runner/) | 5.2 | python2 |
 | [pytest](https://docs.pytest.org/en/latest/) | 4.6.9 | python2_devtools |
-| [Python](http://python.org/) | 2.7.16 | python2_core |
+| [Python](http://python.org/) | 2.7.18 | python2_core |
 | [PyYAML](https://github.com/yaml/pyyaml) | 5.1.2 | python2 |
 | [redis](https://github.com/andymccurdy/redis-py) | 3.2.1 | python2 |
 | [requests-unixsocket](https://github.com/msabramo/requests-unixsocket) | 0.2.0 | python2 |
