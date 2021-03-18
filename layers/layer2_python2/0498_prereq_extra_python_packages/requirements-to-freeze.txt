@@ -1,0 +1,2 @@
+#setuptools_scm>= 5.3 is not python2 compliant
+setuptools_scm < 5.3

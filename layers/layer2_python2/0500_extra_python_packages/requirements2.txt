@@ -4,7 +4,6 @@ backports.functools-lru-cache==1.5
 bash==0.6
 binaryornot==0.4.4
 cachetools==3.1.1
-certifi==2019.3.9
 chardet==3.0.4
 ConfigArgParse==0.14.0
 configparser==3.7.4

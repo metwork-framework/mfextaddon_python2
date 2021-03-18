@@ -10,9 +10,7 @@
 | [binaryornot](https://github.com/audreyr/binaryornot) | 0.4.4 | python2 |
 | [bjoern](https://github.com/thefab/bjoern/tree/metwork) | metwork-20190515 | python2 |
 | [cachetools](https://github.com/tkem/cachetools) | 3.1.1 | python2 |
-| [certifi](https://certifi.io/) | 2019.3.9 | python2 |
 | [certifi](https://certifi.io) | 2019.3.9 | python2_core |
-| [certifi](https://certifi.io/) | 2019.3.9 | python2_devtools |
 | [cffi](http://cffi.readthedocs.org) | 1.14.0 | python2 |
 | [chardet](https://github.com/chardet/chardet) | 3.0.4 | python2 |
 | [ConfigArgParse](https://github.com/bw2/ConfigArgParse) | 0.14.0 | python2 |
@@ -90,4 +88,4 @@
 | [xattrfile](https://github.com/metwork-framework/xattrfile) | custom | python2 |
 | [zipp](https://github.com/jaraco/zipp) | 0.6.0 | python2_devtools |
 
-*(89 components)*
+*(87 components)*
