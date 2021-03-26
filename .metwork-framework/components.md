@@ -62,7 +62,7 @@
 | [pytest-runner](https://github.com/pytest-dev/pytest-runner/) | 5.2 | python2 |
 | [pytest](https://docs.pytest.org/en/latest/) | 4.6.9 | python2_devtools |
 | [Python](http://python.org/) | 2.7.18 | python2_core |
-| [PyYAML](https://github.com/yaml/pyyaml) | 5.1.2 | python2 |
+| [PyYAML](https://pyyaml.org/) | 5.4.1 | python2 |
 | [redis](https://github.com/andymccurdy/redis-py) | 3.2.1 | python2 |
 | [requests-unixsocket](https://github.com/msabramo/requests-unixsocket) | 0.2.0 | python2 |
 | [requests](http://python-requests.org) | 2.22.0 | python2 |
