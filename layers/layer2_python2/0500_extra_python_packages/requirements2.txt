@@ -15,7 +15,7 @@ filelock==3.0.12
 gitignore-parser==0.0.6
 idna==2.8
 inotify-simple==1.1.8
-Jinja2==2.10.1
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 mflog==0.0.4
 -e git+https://github.com/metwork-framework/mfutil.git@73c3dbbb65e91417add2e740299649f356e8aa95#egg=mfutil
