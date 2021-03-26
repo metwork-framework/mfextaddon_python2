@@ -34,7 +34,7 @@
 | [importlib-metadata](http://importlib-metadata.readthedocs.io/) | 1.3.0 | python2_devtools |
 | [inotify-simple](https://github.com/chrisjbillington/inotify_simple) | 1.1.8 | python2 |
 | [isort](https://github.com/timothycrosley/isort) | 4.3.21 | python2_devtools |
-| [Jinja2](http://jinja.pocoo.org/) | 2.10.1 | python2 |
+| [Jinja2](http://jinja.pocoo.org/) | 2.11.3 | python2 |
 | [lazy-object-proxy](https://github.com/ionelmc/python-lazy-object-proxy) | 1.4.3 | python2_devtools |
 | [MarkupSafe](https://palletsprojects.com/p/markupsafe/) | 1.1.1 | python2 |
 | [mccabe](https://github.com/pycqa/mccabe) | 0.6.1 | python2_devtools |
