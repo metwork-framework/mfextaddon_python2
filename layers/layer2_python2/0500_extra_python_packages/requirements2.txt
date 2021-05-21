@@ -33,5 +33,10 @@ simpleeval==0.9.10
 structlog==19.1.0
 terminaltables==3.1.0
 Unidecode==1.1.1
+<<<<<<< HEAD
 urllib3==1.25.3
 -e git+https://github.com/metwork-framework/xattrfile.git@db24341265249b3b0bf4f89604e05cea3743374b#egg=xattrfile
+=======
+urllib3==1.25.11
+-e git+https://github.com/metwork-framework/xattrfile.git@9c0b2974deeafed59caa3659c685a89e686a0159#egg=xattrfile
+>>>>>>> fc96184 (feat: bump urllib3 to 1.25.11 and py to 1.10.0 (security updates) (#87))
