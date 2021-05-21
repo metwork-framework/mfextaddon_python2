@@ -53,7 +53,7 @@
 | [pip](https://pip.pypa.io/) | 9.0.3 | python2_core |
 | [pluggy](https://github.com/pytest-dev/pluggy) | 0.13.1 | python2_devtools |
 | [psutil](https://github.com/giampaolo/psutil) | 5.6.6 | python2 |
-| [py](http://py.readthedocs.io/) | 1.8.1 | python2_devtools |
+| [py](https://py.readthedocs.io/) | 1.10.0 | python2_devtools |
 | [pycodestyle](https://pycodestyle.readthedocs.io/) | 2.5.0 | python2_devtools |
 | [pycparser](https://github.com/eliben/pycparser) | 2.19 | python2 |
 | [pydocstyle](https://github.com/PyCQA/pydocstyle/) | 3.0.0 | python2_devtools |
@@ -80,7 +80,7 @@
 | [testfixtures](https://github.com/Simplistix/testfixtures) | 6.10.3 | python2_devtools |
 | [typing](https://docs.python.org/3/library/typing.html) | 3.7.4.1 | python2_devtools |
 | [Unidecode](https://pypi.org/project/Unidecode) | 1.1.1 | python2 |
-| [urllib3](https://urllib3.readthedocs.io/) | 1.25.3 | python2 |
+| [urllib3](https://urllib3.readthedocs.io/) | 1.25.11 | python2 |
 | [virtualenv](https://virtualenv.pypa.io/) | 16.6.0 | python2_core |
 | [wcwidth](https://github.com/jquast/wcwidth) | 0.1.8 | python2_devtools |
 | [Werkzeug](https://palletsprojects.com/p/werkzeug/) | 0.16.0 | python2_devtools |
