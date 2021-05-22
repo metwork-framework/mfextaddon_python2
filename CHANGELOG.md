@@ -1,5 +1,11 @@
 # release_1.1 CHANGELOG
 
+## [Unreleased]
+
+### New Features
+
+- bump urllib3 to 1.25.11 and py to 1.10.0 (security updates) (backport #87) (#89)
+
 ## v1.1.0 (2021-05-01)
 
 ### New Features
