@@ -65,7 +65,7 @@
 | [PyYAML](https://pyyaml.org/) | 5.4.1 | python2 |
 | [redis](https://github.com/andymccurdy/redis-py) | 3.2.1 | python2 |
 | [requests-unixsocket](https://github.com/msabramo/requests-unixsocket) | 0.2.0 | python2 |
-| [requests](http://python-requests.org) | 2.22.0 | python2 |
+| [requests](https://requests.readthedocs.io) | 2.25.1 | python2 |
 | [scandir](https://github.com/benhoyt/scandir) | 1.10.0 | python2_devtools |
 | [setuptools-scm](https://github.com/pypa/setuptools_scm/) | 3.5.0 | python2 |
 | [setuptools](https://pypi.python.org/pypi/setuptools) | 41.0.1 | python2_core |
@@ -79,7 +79,7 @@
 | [testfixtures](https://github.com/Simplistix/testfixtures) | 6.10.3 | python2_devtools |
 | [typing](https://docs.python.org/3/library/typing.html) | 3.7.4.1 | python2_devtools |
 | [Unidecode](https://pypi.org/project/Unidecode) | 1.1.1 | python2 |
-| [urllib3](https://urllib3.readthedocs.io/) | 1.25.11 | python2 |
+| [urllib3](https://urllib3.readthedocs.io/) | 1.26.5 | python2 |
 | [virtualenv](https://virtualenv.pypa.io/) | 16.6.0 | python2_core |
 | [wcwidth](https://github.com/jquast/wcwidth) | 0.1.8 | python2_devtools |
 | [Werkzeug](https://palletsprojects.com/p/werkzeug/) | 0.16.0 | python2_devtools |
