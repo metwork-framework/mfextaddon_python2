@@ -26,12 +26,12 @@ pathlib==1.0.1
 psutil==5.6.6
 PyYAML==5.4.1
 redis==3.2.1
-requests==2.22.0
+requests==2.25.1
 requests-unixsocket==0.2.0
 simpleeval==0.9.10
 -e git+https://github.com/thefab/pystatsd.git@075001fef55d1caefdd74a55c40db84d829e7edd#egg=statsd
 structlog==19.1.0
 terminaltables==3.1.0
 Unidecode==1.1.1
-urllib3==1.25.11
+urllib3==1.26.5
 -e git+https://github.com/metwork-framework/xattrfile.git@9c0b2974deeafed59caa3659c685a89e686a0159#egg=xattrfile
