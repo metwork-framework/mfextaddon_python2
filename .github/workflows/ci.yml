@@ -158,7 +158,7 @@ jobs:
 
 
       - name: dispatch mfdata python2 tests
-        if: ${{ github.event_name != 'pull_request' && github.event_name != 'tags' && steps.SetVariables.outputs.branch != 'null' && steps.BuildStep.outputs.bypass == 'false' }}
+        if: ${{ github.event_name != 'pull_request' && steps.SetVariables.outputs.skip_dispatch == 'false' && steps.SetVariables.outputs.branch != 'null' && steps.BuildStep.outputs.bypass == 'false' }}
         uses: peter-evans/repository-dispatch@v1
         with:
           token: ${{ secrets.METWORK_ACCESS_TOKEN }}
@@ -166,7 +166,7 @@ jobs:
           event-type: metwork-trigger-${{ steps.SetVariables.outputs.branch }}
           client-payload: '{"branch": "${{ steps.SetVariables.outputs.branch }}", "os": "${{ steps.SetVariables.outputs.os }}"}'
       - name: dispatch mfserv python2 tests
-        if: ${{ github.event_name != 'pull_request' && github.event_name != 'tags' && steps.SetVariables.outputs.branch != 'null' && steps.BuildStep.outputs.bypass == 'false' }}
+        if: ${{ github.event_name != 'pull_request' && steps.SetVariables.outputs.skip_dispatch == 'false' && steps.SetVariables.outputs.branch != 'null' && steps.BuildStep.outputs.bypass == 'false' }}
         uses: peter-evans/repository-dispatch@v1
         with:
           token: ${{ secrets.METWORK_ACCESS_TOKEN }}
@@ -174,7 +174,7 @@ jobs:
           event-type: metwork-trigger-${{ steps.SetVariables.outputs.branch }}
           client-payload: '{"branch": "${{ steps.SetVariables.outputs.branch }}", "os": "${{ steps.SetVariables.outputs.os }}"}'
       - name: dispatch mfextaddon_mapserver
-        if: ${{ github.event_name != 'pull_request' && github.event_name != 'tags' && steps.SetVariables.outputs.branch != 'null' && steps.BuildStep.outputs.bypass == 'false' }}
+        if: ${{ github.event_name != 'pull_request' && steps.SetVariables.outputs.skip_dispatch == 'false' && steps.SetVariables.outputs.branch != 'null' && steps.BuildStep.outputs.bypass == 'false' }}
         uses: peter-evans/repository-dispatch@v1
         with:
           token: ${{ secrets.METWORK_ACCESS_TOKEN }}
@@ -182,7 +182,7 @@ jobs:
           event-type: metwork-trigger-${{ steps.SetVariables.outputs.branch }}
           client-payload: '{"branch": "${{ steps.SetVariables.outputs.branch }}", "os": "${{ steps.SetVariables.outputs.os }}"}'
       - name: dispatch mfextaddon_vim
-        if: ${{ github.event_name != 'pull_request' && github.event_name != 'tags' && steps.SetVariables.outputs.branch != 'null' && steps.BuildStep.outputs.bypass == 'false' }}
+        if: ${{ github.event_name != 'pull_request' && steps.SetVariables.outputs.skip_dispatch == 'false' && steps.SetVariables.outputs.branch != 'null' && steps.BuildStep.outputs.bypass == 'false' }}
         uses: peter-evans/repository-dispatch@v1
         with:
           token: ${{ secrets.METWORK_ACCESS_TOKEN }}
@@ -190,7 +190,7 @@ jobs:
           event-type: metwork-trigger-${{ steps.SetVariables.outputs.branch }}
           client-payload: '{"branch": "${{ steps.SetVariables.outputs.branch }}", "os": "${{ steps.SetVariables.outputs.os }}"}'
       - name: dispatch mfextaddon_scientific
-        if: ${{ github.event_name != 'pull_request' && github.event_name != 'tags' && steps.SetVariables.outputs.branch != 'null' && steps.BuildStep.outputs.bypass == 'false' }}
+        if: ${{ github.event_name != 'pull_request' && steps.SetVariables.outputs.skip_dispatch == 'false' && steps.SetVariables.outputs.branch != 'null' && steps.BuildStep.outputs.bypass == 'false' }}
         uses: peter-evans/repository-dispatch@v1
         with:
           token: ${{ secrets.METWORK_ACCESS_TOKEN }}
