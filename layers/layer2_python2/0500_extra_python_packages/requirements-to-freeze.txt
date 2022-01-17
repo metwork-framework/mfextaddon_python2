@@ -26,3 +26,4 @@ unidecode
 -e git+https://github.com/metwork-framework/acquisition.git#egg=acquisition
 #attrs is required by both python2_devtools and python2_scientific
 attrs
+distro
