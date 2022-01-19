@@ -19,6 +19,7 @@
 | [coverage](https://github.com/nedbat/coveragepy) | 5.0.2 | python2_devtools |
 | [deploycron](https://github.com/metwork-framework/deploycron) | c7d4e7b | python2 |
 | [diskcache](http://www.grantjenks.com/docs/diskcache/) | 3.1.1 | python2 |
+| [distro](https://github.com/python-distro/distro) | 1.6.0 | python2 |
 | [entrypoints](https://github.com/takluyver/entrypoints) | 0.3 | python2_devtools |
 | [enum](https://pypi.org/project/enum/) | 0.4.7 | python2 |
 | [enum34](https://bitbucket.org/stoneleaf/enum34) | 1.1.6 | python2_devtools |
@@ -88,4 +89,4 @@
 | [xattrfile](https://github.com/metwork-framework/xattrfile) | 9c0b297 | python2 |
 | [zipp](https://github.com/jaraco/zipp) | 0.6.0 | python2_devtools |
 
-*(87 components)*
+*(88 components)*
