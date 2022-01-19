@@ -5,20 +5,20 @@ diff -up certifi-2019.3.9/certifi/core.py.orig certifi-2019.3.9/certifi/core.py
  This module returns the installation location of cacert.pem.
  """
  import os
-+import platform
++import distro
 +
-+
-+def is_centos_rhel():
++def is_centos_rhel_rocky():
 +    try:
-+        distribution_name = \
-+            platform.linux_distribution()[0].lower().replace(' ', '')
++        distribution_name = distro.id()
 +    except Exception:
 +        return False
-+    return ( ('centos' in distribution_name) or ('redhat' in distribution_name))
++    return ( ('centos' in distribution_name) or
++             ('redhat' in distribution_name) or
++             ('rocky' in distribution_name) )
  
  
  def where():
-+    if is_centos_rhel():
++    if is_centos_rhel_rocky():
 +        return "/etc/pki/ca-trust/extracted/pem/tls-ca-bundle.pem"
 +
      f = os.path.dirname(__file__)

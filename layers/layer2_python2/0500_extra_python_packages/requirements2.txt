@@ -9,6 +9,7 @@ ConfigArgParse==0.14.0
 configparser==3.7.4
 -e git+https://github.com/metwork-framework/deploycron.git@c7d4e7b78fa8c9eb9f14ba49b5f90232af7d4709#egg=deploycron
 diskcache==3.1.1
+distro==1.6.0
 enum==0.4.7
 -e git+https://github.com/metwork-framework/envtpl.git@a7838100809b367451ddca6477616082b01f4c1c#egg=envtpl
 filelock==3.0.12
