@@ -1,5 +1,11 @@
 # release_1.2 CHANGELOG
 
+## [Unreleased]
+
+### New Features
+
+- add certifi patch for RockyLinux and add distro (backport #101) (#102)
+
 ## v1.2.0 (2021-11-18)
 
 ### New Features
