@@ -27,7 +27,7 @@ pathlib==1.0.1
 psutil==5.6.6
 PyYAML==5.4.1
 redis==3.2.1
-requests==2.25.1
+requests==2.31.0
 requests-unixsocket==0.2.0
 simpleeval==0.9.10
 -e git+https://github.com/thefab/pystatsd.git@075001fef55d1caefdd74a55c40db84d829e7edd#egg=statsd
