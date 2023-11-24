@@ -30,6 +30,6 @@ snowballstemmer==2.0.0
 testfixtures==6.10.3
 typing==3.7.4.1
 wcwidth==0.1.8
-Werkzeug==0.16.0
+Werkzeug==2.3.8
 wrapt==1.11.2
 zipp==0.6.0
